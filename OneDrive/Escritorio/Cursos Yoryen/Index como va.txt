@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>el title es la pestaña  de la ventana</title>
+    </head> en head empezamos la pagina 
+    <body>lo que contiene la pantalla
+        <header>el encabezado es header
+            <nav>
+                <ol>
+                    <li>
+                     <a href=""></a>     
+                </ol>
+                <ol>
+                    <li>
+                        <a href="">Experiencia</a>
+                        <a href="">(Bienvenido a mi mundo)</a>
+                    </li>
+                    <Li>
+                        <a href="">Saludos</a>
+                    </Li>
+                </ol>
+                <ul></ul>
+            </nav>
+        </header>
+        <section><H1>
+            Hola soy <strong>Yoryen</strong> y amo a mi princesita.
+            <IMG>imagen de portada</IMG>
+        </H1></section>
+        <section>
+            <article>
+                <h1>
+                    <img> imagen de los dos
+                </h1>
+            </article>
+        </section>
+        <section>
+            <h2>Mi bebe hermosa que tanto quiero</h2>
+            <article>
+                <h3>Ya no te enojes</h3>
+                <h6>Bueno aunque asi me gustas</h6>
+                <p>Desde 05/12/2019</p>
+                <p>Se pueden crear </p>
+                <p></p>
+            </article>
+        </section>
+        <section>No lo olvides te amo</section>
+        <footer></footer>
+    </body>
+</html>
